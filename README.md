@@ -1,2 +1,2 @@
-# Flutter
-Dart programlama dili ve Flutter kullanarak uygulamalar geliştireceğim.
+# Flutter notlarım
+Burada flutter ve dart ile ilgili örnek kodların notları bulunacaktır.
